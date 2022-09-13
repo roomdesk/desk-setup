@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://roomdesk.github.io/desk-setup/sitemapx.xml
